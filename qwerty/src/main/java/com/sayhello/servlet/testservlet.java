@@ -19,7 +19,6 @@ import javax.servlet.http.HttpServletResponse;
 	    @Override
 	    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 	       
-	    	^^^^^
 	    	resp.setContentType("text/plain");
 	        resp.getWriter().write("right；*****AAAAA***");
 	    }
