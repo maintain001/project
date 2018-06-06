@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+D:\公有云相关\project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2508041901.index
+3255864763.index
+3415371875.index
+2277308219.index
+1244900245.index
